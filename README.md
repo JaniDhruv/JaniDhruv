@@ -5,18 +5,18 @@
 
   <!-- Typing SVG -->
   <a href="https://github.com/JaniDhruv">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Dhruv+Jani+%F0%9F%91%8B;Incoming+Trainee+Engineer+%40+Simform+%F0%9F%92%BC;Final-Year+CE+Student+%40+DDU+%F0%9F%8E%93;Full-Stack+%26+Real-Time+Systems+%F0%9F%9A%80;AI+%26+Local-First+Agent+Builder+%F0%9F%A4%96;Hackathon+Winner+%7C+DEV+Trusted+Member+%F0%9F%8F%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Dhruv+Jani+%F0%9F%91%8B;Incoming+Trainee+Engineer+%40+Simform+%F0%9F%92%BC;Final-Year+CE+Student+%40+DDU+%F0%9F%8E%93;Full-Stack+%26+Real-Time+Systems+%F0%9F%9A%80;AI+%26+Local-First+Agent+Builder+%F0%9F%A4%96;15.8k%2B+Followers+on+DEV+%7C+Trusted+Member+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Social & Profile Badges -->
+  <!-- Top Badges -->
   <a href="https://www.linkedin.com/in/dhruv-jani-dj29/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://dev.to/dj29" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-dj29-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" />
+    <img src="https://img.shields.io/badge/DEV.to-15.8k+_Followers-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to Followers" />
   </a>
   &nbsp;
   <a href="mailto:dhruvdjani29@gmail.com">
@@ -35,6 +35,7 @@
 name: Dhruv Jani
 status: Final-Year B.Tech CE @ DDU → Incoming Trainee Engineer @ Simform
 location: Vadodara, Gujarat, India 📍
+community: DEV Trusted Member (@dj29) • 15,800+ Followers • 36,000+ Readers
 building: Local-first AI daemons · Real-time apps · Dev tooling
 writing: dev.to/dj29
 ask_me_about: [React, Next.js, Node/Express, Python, Socket.io, Gemini/Gemma, Local-First Architectures]
@@ -50,8 +51,8 @@ ask_me_about: [React, Next.js, Node/Express, Python, Socket.io, Gemini/Gemma, Lo
 <table>
   <tr>
     <th width="33%" align="center">🥇 <b>Hackathons</b></th>
-    <th width="33%" align="center">🌍 <b>Open Source</b></th>
-    <th width="33%" align="center">✍️ <b>Community</b></th>
+    <th width="33%" align="center">🌍 <b>Open Source & Orgs</b></th>
+    <th width="33%" align="center">✍️ <b>Community & Reach</b></th>
   </tr>
   <tr>
     <td align="center">
@@ -60,14 +61,13 @@ ask_me_about: [React, Next.js, Node/Express, Python, Socket.io, Gemini/Gemma, Lo
       <sub>with <a href="https://github.com/JaniDhruv/ShelfTalk"><b>ShelfTalk</b></a></sub>
     </td>
     <td align="center">
-      <b>8+ merged PRs</b><br/>
-      in <a href="https://github.com/forem/forem/pulls?q=is%3Apr+author%3AJaniDhruv+is%3Amerged"><b>forem/forem</b></a><br/>
-      <sub>4x DEV Contributor Club</sub>
+      <b>8+ merged PRs</b> in <a href="https://github.com/forem/forem/pulls?q=is%3Apr+author%3AJaniDhruv+is%3Amerged"><b>forem/forem</b></a><br/>
+      <sub>Member: <b>The DEVengers</b> & <b>Necoz</b></sub>
     </td>
     <td align="center">
       <b>DEV Trusted Member</b><br/>
       Writing as <a href="https://dev.to/dj29"><b>@dj29</b></a><br/>
-      <sub>open source · AI · web dev</sub>
+      <sub><b>15.8k+</b> Followers • <b>36.6k+</b> Views</sub>
     </td>
   </tr>
   <tr>
@@ -83,12 +83,78 @@ ask_me_about: [React, Next.js, Node/Express, Python, Socket.io, Gemini/Gemma, Lo
     </td>
     <td align="center">
       <b>Multi-challenge builder</b><br/>
-      Gemma · Hacktoberfest · Kaggle<br/>
+      Gemma · Sanity · Hacktoberfest · Kaggle<br/>
       <sub>ship, then write about it</sub>
     </td>
   </tr>
 </table>
 </div>
+
+---
+
+### ✍️ Technical Writing & Community Impact ([@dj29](https://dev.to/dj29))
+
+<div align="center">
+
+  <!-- Live Metrics Grid -->
+  <a href="https://dev.to/dj29" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to_Followers-15.8k%2B-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="15.8k+ Followers" />
+  </a>
+  &nbsp;
+  <a href="https://dev.to/dj29" target="_blank">
+    <img src="https://img.shields.io/badge/Total_Views-36.6k%2B-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="36.6k+ Views" />
+  </a>
+  &nbsp;
+  <a href="https://dev.to/dj29" target="_blank">
+    <img src="https://img.shields.io/badge/Post_Reactions-1.8k%2B-0A0A0A?style=for-the-badge&logo=githubsponsors&logoColor=ea4aaa" alt="1.8k+ Reactions" />
+  </a>
+  &nbsp;
+  <a href="https://dev.to/dj29" target="_blank">
+    <img src="https://img.shields.io/badge/Post_Comments-980%2B-0A0A0A?style=for-the-badge&logo=discourse&logoColor=white" alt="980+ Comments" />
+  </a>
+  &nbsp;
+  <a href="https://dev.to/dj29" target="_blank">
+    <img src="https://img.shields.io/badge/Published_Posts-30%2B-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="30+ Posts" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Organizations -->
+  <p>
+    <strong>🏢 Organizations:</strong>&nbsp;
+    <a href="https://dev.to/the-devengers" target="_blank"><img src="https://img.shields.io/badge/DEV_Org-The_DEVengers-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="The DEVengers" /></a>
+    &nbsp;
+    <a href="https://dev.to/necoz" target="_blank"><img src="https://img.shields.io/badge/DEV_Org-Necoz-3ea675?style=flat-square&logo=devdotto&logoColor=white" alt="Necoz" /></a>
+  </p>
+
+  <!-- Community Badges Showcase -->
+  <p>
+    <strong>🏅 Community Badges:</strong>&nbsp;
+    <img src="https://img.shields.io/badge/DEV-8x_Contributor_Club-f2a900?style=flat-square&logo=devdotto&logoColor=black" alt="DEV 8x" />
+    <img src="https://img.shields.io/badge/DEV-4x_Contributor_Club-2ea44f?style=flat-square&logo=devdotto&logoColor=white" alt="DEV 4x" />
+    <img src="https://img.shields.io/badge/GitHub-Copilot_Finish--Up-181717?style=flat-square&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+    <img src="https://img.shields.io/badge/Google-Gemma_4_Dev-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemma 4 Dev" />
+    <img src="https://img.shields.io/badge/Sanity-AI_Challenge-F03E2F?style=flat-square&logo=sanity&logoColor=white" alt="Sanity AI" />
+    <img src="https://img.shields.io/badge/Hacktoberfest-Contributor-FF7518?style=flat-square&logo=hacktoberfest&logoColor=white" alt="Hacktoberfest" />
+    <img src="https://img.shields.io/badge/Kaggle-Contributor-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </p>
+
+</div>
+
+📌 **Featured Pinned Article:**  
+> [**Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI to Haunt It.**](https://dev.to/dj29)  
+> *A deep dive into GitSeance, AST parsers, and code auditing agents for the Hacktoberfest Open-Source AI Challenge.*
+
+<br/>
+
+<details>
+<summary><b>📰 Latest DEV.to Articles (Auto-Updated via GitHub Actions)</b></summary>
+<br/>
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+</details>
 
 ---
 
@@ -158,18 +224,6 @@ ask_me_about: [React, Next.js, Node/Express, Python, Socket.io, Gemini/Gemma, Lo
 | 🔍 [**GitSeance**](https://github.com/JaniDhruv/GitSeance) | Query and inspect legacy or undocumented repos with AI agents. | AI Agents · TypeScript · AST Parser |
 
 </details>
-
----
-
-### ✍️ Writing
-
-I turn what I build and break into posts on [DEV.to (@dj29)](https://dev.to/dj29): local-first AI, open-weights LLMs, real-time WebSockets, open-source contributions, and developer tooling.
-
-<p align="center">
-  <a href="https://dev.to/dj29" target="_blank">
-    <img src="https://img.shields.io/badge/Read_my_articles_on-DEV.to-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to Articles" />
-  </a>
-</p>
 
 ---
 
