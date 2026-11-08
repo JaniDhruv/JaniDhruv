@@ -1,4 +1,4 @@
-name: Latest DEV.to Articles
+name: Orbital Dispatches: Pull Latest DEV Articles
 
 on:
   schedule:
@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   update-readme-with-blog:
-    name: Update README with latest DEV.to articles
+    name: Sync README with latest orbital dispatches from DEV
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -22,5 +22,4 @@ jobs:
         with:
           feed_list: "https://dev.to/feed/dj29"
           max_post_count: 5
-          template: "$newline- [$title]($url) - $date"
-
+          template: "$newline- ✦ [$title]($url) — *$date*"
