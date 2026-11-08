@@ -30,7 +30,7 @@
   </a>
   &nbsp;
   <a href="mailto:dhruvdjani29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hi-0B1026?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say_Hi-0B1026?style=for-the-badge" alt="Email" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=JaniDhruv&label=Cosmic%20Visitors&color=f59e0b&style=for-the-badge" alt="Profile views" />
@@ -425,7 +425,7 @@ Open to discussing full-stack engineering, local-first AI, hackathons, open sour
   </a>
   &nbsp;
   <a href="mailto:dhruvdjani29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Open_Channel-0B1026?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Open_Channel-0B1026?style=for-the-badge" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/JaniDhruv">
