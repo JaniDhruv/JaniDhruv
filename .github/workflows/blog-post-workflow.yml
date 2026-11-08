@@ -1,4 +1,4 @@
-name: Orbital Dispatches: Pull Latest DEV Articles
+name: "Orbital Dispatches: Pull Latest DEV Articles"
 
 on:
   schedule:
