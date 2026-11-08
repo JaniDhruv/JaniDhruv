@@ -36,8 +36,8 @@
   </g>
 
   <!-- Description -->
-  <text x="18" y="65" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">University grievance system with strict role-based access,</text>
-  <text x="18" y="83" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">end-to-end state transitions, and admin dashboards.</text>
+  <text x="18" y="65" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Campus complaint platform for students, faculty, and HODs.</text>
+  <text x="18" y="83" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Tracks issues and escalates complaints after 72 hours.</text>
 
   <!-- Divider Line -->
   <line x1="18" y1="98" x2="382" y2="98" stroke="#172554" stroke-width="1" stroke-opacity="0.6" />

@@ -1,9 +1,5 @@
 <!-- Custom Dhruv Tara Cosmic Banner -->
 <div align="center">
-  <img src="assets/starfield.svg" width="100%" alt="" />
-</div>
-
-<div align="center">
   <img src="assets/dhruv-tara-banner.jpg" width="100%" alt="Dhruv Jani — Dhruv Tara (Pole Star) • Same Star, Higher Orbits" />
 </div>
 
@@ -282,14 +278,8 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
   <a href="https://dev.to/dj29" target="_blank"><b>View all 30+ articles on dev.to →</b></a>
 </p>
 
-<details>
-<summary><b>🔄 Auto-Updating Stream (Powered by GitHub Actions)</b></summary>
-<br/>
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-</details>
 
 <div align="center">
   <img src="assets/cosmic-divider.svg" width="100%" alt="" />
@@ -376,13 +366,13 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 
 | 🛰️ Orbiter | 🌌 Mission Objective | ⚡ Propulsion & Stack |
 | :--- | :--- | :--- |
-| ⚡ [**slothd**](https://github.com/JaniDhruv/slothd) | **Hacktoberfest 2026 Winner ($100 Prize)** — Local-first AI file tidier that runs only when your system is idle. Categorizes files using multimodal vision and structured outputs. | Python · Multimodal AI · Local-First Daemon |
-| 📚 [**ShelfTalk**](https://github.com/JaniDhruv/ShelfTalk) | **GitHub Copilot Finish-Up-A-Thon Winner** — Full-stack real-time social platform with Socket.io instant messaging and synchronized reading rooms. | React · Vite · Node/Express · Socket.io · MongoDB Atlas |
-| 📜 [**FinePrint**](https://github.com/Tarkash-Labs/FinePrint) | Open-weights multimodal legal contract analyzer that decodes predatory clauses into plain-English risk scores with real-time SSE streaming. | React · Vite · FastAPI · Multimodal AI · SSE Streaming |
-| 🔍 [**GitSéance**](https://github.com/JaniDhruv/GitSeance) | An AI codebase necromancer that channels author commits via AST analysis to demystify terrifying legacy '// DO NOT TOUCH' files. | TypeScript · AI Agents · AST Parser · Git History |
-| 🛡️ [**OriginTrace**](https://github.com/JaniDhruv/OriginTrace) | Content provenance and anti-theft engine using Sanity Knowledge Base reconciliation to protect technical creators from plagiarism. | TypeScript · Sanity Context MCP · Knowledge Base API |
-| 🏛️ [**EduResolve**](https://github.com/Edu-Trinity/EduResolve) | Secure university grievance management system featuring strict RBAC, end-to-end state transitions, and department-aware dashboards. | C# · ASP.NET Core MVC · SQL Server · Entity Framework |
-| 🕵️ [**the-imitation-game**](https://github.com/JaniDhruv/the-imitation-game) | A Cold War-era reverse Turing Test game: interrogate three signals across 5 rounds to identify the human with procedural audio and CRT rendering. | JavaScript · Gemini API · Web Audio API · Vanilla CRT |
+| ⚡ [**slothd**](https://github.com/JaniDhruv/slothd) | **Hacktoberfest 2026 Winner ($100 Prize)** — A local-first AI organizer that waits for system idle time, understands file content, previews its plan, and lets you undo every move. | Python · Multimodal AI · Local-First Daemon |
+| 📚 [**ShelfTalk**](https://github.com/JaniDhruv/ShelfTalk) | **GitHub Copilot Finish-Up-A-Thon Winner** — A social reading community where people discover books, join genre clubs, chat live, share reading rooms, and keep a reading diary. | React · Vite · Node/Express · Socket.io · MongoDB Atlas |
+| 📜 [**FinePrint**](https://github.com/Tarkash-Labs/FinePrint) | Upload a photo, PDF, or pasted contract and get clause-level risk explanations, negotiation guidance, and a clear verdict before signing. | React · Vite · FastAPI · Gemma 4 · SSE Streaming |
+| 🔍 [**GitSéance**](https://github.com/JaniDhruv/GitSeance) | An AI codebase necromancer that traverses commit history and ASTs, then channels the original authors to explain intimidating legacy code. | TypeScript · AI Agents · AST Parser · Git History |
+| 🛡️ [**OriginTrace**](https://github.com/JaniDhruv/OriginTrace) | Paste a DEV.to article URL to find stolen copies, persist structured evidence in Sanity, determine attribution, and generate DMCA takedown actions with an AI agent. | TypeScript · Sanity Context MCP · Knowledge Base API |
+| 🏛️ [**EduResolve**](https://github.com/Edu-Trinity/EduResolve) | A campus complaint workflow for students, faculty, and HODs to submit, track, triage, and escalate academic or administrative issues with 72-hour monitoring. | C# · ASP.NET Core MVC · SQL Server · Entity Framework |
+| 🕵️ [**the-imitation-game**](https://github.com/JaniDhruv/the-imitation-game) | A classified 1950s terminal game where a GCHQ analyst interrogates Gemini-powered suspects on the summer solstice to identify the human operative. | JavaScript · Gemini API · Web Audio API · Vanilla CRT |
 
 </details>
 
