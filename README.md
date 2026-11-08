@@ -64,8 +64,6 @@
   <a href="mailto:dhruvdjani29@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-0B1026.svg?style=for-the-badge" alt="Email" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=JaniDhruv&label=Cosmic%20Visitors&color=f59e0b&style=for-the-badge" alt="Profile views" />
 
 </div>
 
