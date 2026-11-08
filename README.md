@@ -421,7 +421,7 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 </details>
 
 <div align="center">
-  <img src="assets/constellation-map.svg" width="100%" alt="Constellation map connecting projects across applied AI, provenance, full-stack systems, and interactive experiences" />
+  <img src="assets/constellation-map.svg" width="100%" alt="Dhruv Tara Constellation connecting seven projects across applied AI, provenance, full-stack systems, and interactive experiences" />
 </div>
 
 <div align="center">
