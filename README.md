@@ -18,7 +18,7 @@
   </a>
   &nbsp;
   <a href="https://dev.to/dj29" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-15.8k+_Stargazers-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to Followers" />
+    <img src="https://img.shields.io/badge/DEV.to-15.8k_Stargazers-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to Followers" />
   </a>
   &nbsp;
   <a href="mailto:dhruvdjani29@gmail.com">
@@ -69,15 +69,15 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 
   <!-- Live Cosmic Metrics Grid -->
   <a href="https://dev.to/dj29" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to_Stargazers-15.8k%2B-0B0F19?style=for-the-badge&logo=devdotto&logoColor=f59e0b" alt="15.8k+ Stargazers" />
+    <img src="https://img.shields.io/badge/DEV.to_Stargazers-15.8k-0B0F19?style=for-the-badge&logo=devdotto&logoColor=f59e0b" alt="15.8k+ Stargazers" />
   </a>
   &nbsp;
   <a href="https://dev.to/dj29" target="_blank">
-    <img src="https://img.shields.io/badge/Orbital_Reads-36.6k%2B-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="36.6k+ Views" />
+    <img src="https://img.shields.io/badge/Orbital_Reads-36.6k-0B0F19?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" alt="36.6k+ Views" />
   </a>
   &nbsp;
   <a href="https://dev.to/dj29" target="_blank">
-    <img src="https://img.shields.io/badge/Starlight_Reactions-1.8k%2B-0B0F19?style=for-the-badge&logo=githubsponsors&logoColor=ea4aaa" alt="1.8k+ Reactions" />
+    <img src="https://img.shields.io/badge/Starlight_Reactions-1.8k-0B0F19?style=for-the-badge&logo=githubsponsors&logoColor=ea4aaa" alt="1.8k+ Reactions" />
   </a>
   &nbsp;
   <a href="https://github.com/forem/forem/pulls?q=is%3Apr+author%3AJaniDhruv+is%3Amerged" target="_blank">
@@ -85,7 +85,7 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
   </a>
   &nbsp;
   <a href="https://dev.to/dj29" target="_blank">
-    <img src="https://img.shields.io/badge/Dispatches-30%2B-0B0F19?style=for-the-badge&logo=devdotto&logoColor=white" alt="30+ Posts" />
+    <img src="https://img.shields.io/badge/Dispatches-30_Articles-0B0F19?style=for-the-badge&logo=devdotto&logoColor=white" alt="30+ Posts" />
   </a>
 
   <br/><br/>
@@ -212,12 +212,12 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
       <br/><br/>
       <a href="https://dev.to/dj29/popularity-depends-on-how-you-define-it-how-700-rss-bot-posts-took-over-devs-community-hub-414p" target="_blank"><b>Popularity Depends on How You Define It: How 700 RSS Bot Posts Took Over DEV...</b></a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Nov_5-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Date" />
+      <img src="https://img.shields.io/badge/Nov_5-0A0A0A?style=flat-square" alt="Date" />
       <img src="https://img.shields.io/badge/5_min_read-181717?style=flat-square" alt="Read time" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/56+-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white" alt="Reactions" />
+      <img src="https://img.shields.io/badge/Reactions-56-ea4aaa?style=flat-square" alt="Reactions" />
       &nbsp;
-      <img src="https://img.shields.io/badge/32+-6366F1?style=flat-square&logo=discourse&logoColor=white" alt="Comments" />
+      <img src="https://img.shields.io/badge/Comments-32-6366f1?style=flat-square" alt="Comments" />
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5" target="_blank">
@@ -226,12 +226,12 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
       <br/><br/>
       <a href="https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5" target="_blank"><b>Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer...</b></a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Oct_31-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Date" />
+      <img src="https://img.shields.io/badge/Oct_31-0A0A0A?style=flat-square" alt="Date" />
       <img src="https://img.shields.io/badge/12_min_read-181717?style=flat-square" alt="Read time" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/125+-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white" alt="Reactions" />
+      <img src="https://img.shields.io/badge/Reactions-125-ea4aaa?style=flat-square" alt="Reactions" />
       &nbsp;
-      <img src="https://img.shields.io/badge/65+-6366F1?style=flat-square&logo=discourse&logoColor=white" alt="Comments" />
+      <img src="https://img.shields.io/badge/Comments-65-6366f1?style=flat-square" alt="Comments" />
     </td>
     <td width="33%" align="center" valign="top">
       <a href="https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo" target="_blank">
@@ -240,12 +240,12 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
       <br/><br/>
       <a href="https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo" target="_blank"><b>I'm Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code.</b></a>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Oct_24-0A0A0A?style=flat-square&logo=devdotto&logoColor=white" alt="Date" />
+      <img src="https://img.shields.io/badge/Oct_24-0A0A0A?style=flat-square" alt="Date" />
       <img src="https://img.shields.io/badge/6_min_read-181717?style=flat-square" alt="Read time" />
       <br/><br/>
-      <img src="https://img.shields.io/badge/146+-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white" alt="Reactions" />
+      <img src="https://img.shields.io/badge/Reactions-146-ea4aaa?style=flat-square" alt="Reactions" />
       &nbsp;
-      <img src="https://img.shields.io/badge/65+-6366F1?style=flat-square&logo=discourse&logoColor=white" alt="Comments" />
+      <img src="https://img.shields.io/badge/Comments-65-6366f1?style=flat-square" alt="Comments" />
     </td>
   </tr>
 </table>
@@ -317,19 +317,19 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 <div align="center">
 <table>
   <tr>
-    <td><a href="https://github.com/JaniDhruv/slothd"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JaniDhruv&repo=slothd&theme=tokyonight&hide_border=true" alt="slothd" /></a></td>
-    <td><a href="https://github.com/JaniDhruv/ShelfTalk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JaniDhruv&repo=ShelfTalk&theme=tokyonight&hide_border=true" alt="ShelfTalk" /></a></td>
+    <td><a href="https://github.com/JaniDhruv/slothd"><img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=JaniDhruv&repo=slothd&theme=tokyonight&hide_border=true" alt="slothd" /></a></td>
+    <td><a href="https://github.com/JaniDhruv/ShelfTalk"><img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=JaniDhruv&repo=ShelfTalk&theme=tokyonight&hide_border=true" alt="ShelfTalk" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Tarkash-Labs/FinePrint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarkash-Labs&repo=FinePrint&theme=tokyonight&hide_border=true" alt="FinePrint" /></a></td>
-    <td><a href="https://github.com/JaniDhruv/GitSeance"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JaniDhruv&repo=GitSeance&theme=tokyonight&hide_border=true" alt="GitSeance" /></a></td>
+    <td><a href="https://github.com/Tarkash-Labs/FinePrint"><img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Tarkash-Labs&repo=FinePrint&theme=tokyonight&hide_border=true" alt="FinePrint" /></a></td>
+    <td><a href="https://github.com/JaniDhruv/GitSeance"><img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=JaniDhruv&repo=GitSeance&theme=tokyonight&hide_border=true" alt="GitSeance" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/JaniDhruv/OriginTrace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JaniDhruv&repo=OriginTrace&theme=tokyonight&hide_border=true" alt="OriginTrace" /></a></td>
-    <td><a href="https://github.com/Edu-Trinity/EduResolve"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Edu-Trinity&repo=EduResolve&theme=tokyonight&hide_border=true" alt="EduResolve" /></a></td>
+    <td><a href="https://github.com/JaniDhruv/OriginTrace"><img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=JaniDhruv&repo=OriginTrace&theme=tokyonight&hide_border=true" alt="OriginTrace" /></a></td>
+    <td><a href="https://github.com/Edu-Trinity/EduResolve"><img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Edu-Trinity&repo=EduResolve&theme=tokyonight&hide_border=true" alt="EduResolve" /></a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://github.com/JaniDhruv/the-imitation-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JaniDhruv&repo=the-imitation-game&theme=tokyonight&hide_border=true" alt="the-imitation-game" /></a></td>
+    <td colspan="2" align="center"><a href="https://github.com/JaniDhruv/the-imitation-game"><img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=JaniDhruv&repo=the-imitation-game&theme=tokyonight&hide_border=true" alt="the-imitation-game" /></a></td>
   </tr>
 </table>
 </div>
@@ -356,8 +356,8 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JaniDhruv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaniDhruv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=JaniDhruv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=JaniDhruv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
 
   <br/>
 
