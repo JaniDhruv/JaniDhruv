@@ -49,7 +49,7 @@
 
     <!-- Star Glow Icon & Uplink Text -->
     <g transform="translate(364, 0)">
-      <text x="0" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#FBBF24">LAUNCH ORBITER -&gt;</text>
+      <text x="0" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#FBBF24">READ CASE FILE -&gt;</text>
     </g>
   </g>
 </svg>

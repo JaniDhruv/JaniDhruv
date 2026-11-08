@@ -8,6 +8,42 @@
 </div>
 
 <div align="center">
+  <img src="assets/mission-control.svg" width="100%" alt="Mission control dashboard: online, full-stack and applied AI engineer, Vadodara, India" />
+</div>
+
+<div align="center">
+  <br/>
+  <a href="#milestones"><img src="https://img.shields.io/badge/MILESTONES-0B1026?style=for-the-badge&logo=target&logoColor=FBBF24" alt="Milestones" /></a>
+  <a href="#signals"><img src="https://img.shields.io/badge/SIGNALS-0B1026?style=for-the-badge&logo=signal&logoColor=38BDF8" alt="Signals" /></a>
+  <a href="#orbiters"><img src="https://img.shields.io/badge/ORBITERS-0B1026?style=for-the-badge&logo=rocket&logoColor=34D399" alt="Orbiters" /></a>
+  <a href="#stack"><img src="https://img.shields.io/badge/STACK-0B1026?style=for-the-badge&logo=codeforces&logoColor=A78BFA" alt="Stack" /></a>
+  <a href="#uplink"><img src="https://img.shields.io/badge/UPLINK-0B1026?style=for-the-badge&logo=maildotru&logoColor=F472B6" alt="Uplink" /></a>
+</div>
+
+<a name="featured-mission"></a>
+
+### 🌠 Featured Mission · ShelfTalk
+
+<table width="100%">
+  <tr>
+    <td width="62%" valign="top">
+      <b>Turning reading lists into living conversations.</b><br/><br/>
+      ShelfTalk is a social reading community where readers discover books, join genre clubs, chat in real time, coordinate synchronized reading rooms, and keep personal reading diaries.
+      <br/><br/>
+      <b>Why it stands out:</b> revived and shipped as a polished, deployed product with Socket.io-powered live collaboration.
+    </td>
+    <td width="38%" valign="top">
+      <b>MISSION STATUS</b><br/>
+      🏆 1 of 10 Global Challenge Winners<br/>
+      💰 $300 Finish-Up-A-Thon Prize<br/>
+      ⚡ React · Node · Socket.io<br/><br/>
+      <a href="https://shelftalk-community.vercel.app/"><b>Visit the live orbit →</b></a><br/>
+      <a href="https://github.com/JaniDhruv/ShelfTalk"><b>Read the source mission →</b></a>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
 
   <!-- Typing SVG (Golden Star Glow) -->
   <a href="https://github.com/JaniDhruv">
@@ -63,6 +99,8 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 
 ---
 
+<a name="milestones"></a>
+
 ### 🏆 High-Orbit Milestones · Signal Strength
 
 | 🌟 Orbit | Celestial Achievement / Description | 🗓️ Solar Year |
@@ -78,6 +116,8 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 </div>
 
 ---
+
+<a name="signals"></a>
 
 ### ✍️ Stargazers & Community Impact · Incoming Signals ([@dj29](https://dev.to/dj29))
 
@@ -287,6 +327,8 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 
 ---
 
+<a name="stack"></a>
+
 ### 🛠️ The Technical Stargate · Propulsion Systems
 
 <div align="center">
@@ -338,6 +380,8 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 
 ---
 
+<a name="orbiters"></a>
+
 ### 🚀 Deployed Orbiters · Deep-Space Systems
 
 <div align="center">
@@ -377,6 +421,10 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 </details>
 
 <div align="center">
+  <img src="assets/constellation-map.svg" width="100%" alt="Constellation map connecting projects across applied AI, provenance, full-stack systems, and interactive experiences" />
+</div>
+
+<div align="center">
   <img src="assets/cosmic-divider.svg" width="100%" alt="" />
 </div>
 
@@ -400,6 +448,8 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 </div>
 
 ---
+
+<a name="uplink"></a>
 
 ### 🤝 Establish Uplink · Open Channel
 
