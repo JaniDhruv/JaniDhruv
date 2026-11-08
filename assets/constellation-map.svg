@@ -9,7 +9,7 @@
     </filter>
   </defs>
   <rect x="1" y="1" width="998" height="208" rx="14" fill="url(#space)" stroke="#38BDF8" stroke-opacity=".35"/>
-  <g stroke="#64748B" stroke-opacity=".55" stroke-width="1">
+  <g fill="none" stroke="#64748B" stroke-opacity=".55" stroke-width="1">
     <path d="M125 132L235 70L380 42L520 82L675 45L825 78L910 140"/>
     <path d="M235 70L380 168L520 82L675 165L825 78"/>
   </g>
