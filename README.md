@@ -2,11 +2,11 @@
 
   <!-- Animated Header / Typing SVG -->
   <a href="https://github.com/JaniDhruv">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Dhruv+Jani+%F0%9F%91%8B;Trainee+Engineer+%40+Simform+%F0%9F%92%BC;Full-Stack+%26+Real-Time+Systems+%F0%9F%9A%80;AI+%26+Local-First+Agent+Builder+%F0%9F%A4%96;Active+DEV+Hackathon+Competitor+%F0%9F%8F%86" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=580&lines=Hi%2C+I'm+Dhruv+Jani+%F0%9F%91%8B;Incoming+Trainee+Engineer+%40+Simform+%F0%9F%92%BC;Final-Year+CE+Student+%40+DDU+%F0%9F%8E%93;Full-Stack+%26+Real-Time+Systems+%F0%9F%9A%80;AI+%26+Local-First+Agent+Builder+%F0%9F%A4%96;Active+DEV+Hackathon+Competitor+%F0%9F%8F%86" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <strong>Full-Stack Developer • Trainee Engineer @ Simform • Computer Engineering @ DDU</strong>
+    <strong>Full-Stack Developer • Incoming Trainee Engineer @ Simform • Final-Year CE @ DDU</strong>
   </p>
 
   <p align="center">
@@ -37,16 +37,16 @@
 
 ```yaml
 name: Dhruv Jani
-current_role: Trainee Engineer @ Simform
-education: B.Tech in Computer Engineering @ Dharmsinh Desai University (DDU)
+education: Final-Year B.Tech in Computer Engineering @ Dharmsinh Desai University (DDU)
+upcoming_role: Incoming Trainee Engineer @ Simform
 location: Vadodara, Gujarat, India
 core_focus: [Full-Stack Development, Real-Time Architectures, Agentic & Local-First AI]
 community: Active author & challenge builder on DEV.to (@dj29)
 mission: Crafting performant web experiences, intelligent AI tools, and robust software systems
 ```
 
-- 💼 **Professional Journey:** Trainee Engineer at **[Simform](https://www.simform.com/)**, working on robust, scalable software engineering.
-- 🎓 **Education:** Pursuing/Completed B.Tech in Computer Engineering at **Dharmsinh Desai University (DDU)**.
+- 🎓 **Education:** Final-year B.Tech undergraduate in Computer Engineering at **Dharmsinh Desai University (DDU)** (Semester 7).
+- 💼 **Upcoming Role:** Incoming Trainee Engineer at **[Simform](https://www.simform.com/)**.
 - 🚀 **Builder & Innovator:** Passionate about local-first AI daemons, open-weights models (Gemma), multimodal systems, and real-time social applications.
 - ✍️ **Writing & Community:** Regular contributor and challenge entrant on **[DEV.to (@dj29)](https://dev.to/dj29)** — writing about open source, AI engineering, and web development.
 - 💬 **Ask me about:** React, Next.js, Node.js/Express, Python, Socket.io, Gemini/Gemma models, or local-first architectures.
