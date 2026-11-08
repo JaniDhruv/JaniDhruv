@@ -13,11 +13,11 @@
 
 <div align="center">
   <br/>
-  <a href="#milestones"><img src="https://img.shields.io/badge/MILESTONES-0B1026?style=for-the-badge&logo=target&logoColor=FBBF24" alt="Milestones" /></a>
-  <a href="#signals"><img src="https://img.shields.io/badge/SIGNALS-0B1026?style=for-the-badge&logo=signal&logoColor=38BDF8" alt="Signals" /></a>
-  <a href="#orbiters"><img src="https://img.shields.io/badge/ORBITERS-0B1026?style=for-the-badge&logo=rocket&logoColor=34D399" alt="Orbiters" /></a>
-  <a href="#stack"><img src="https://img.shields.io/badge/STACK-0B1026?style=for-the-badge&logo=codeforces&logoColor=A78BFA" alt="Stack" /></a>
-  <a href="#uplink"><img src="https://img.shields.io/badge/UPLINK-0B1026?style=for-the-badge&logo=maildotru&logoColor=F472B6" alt="Uplink" /></a>
+  <a href="#milestones"><b>✦ MILESTONES</b></a>&nbsp;·&nbsp;
+  <a href="#signals"><b>✦ SIGNALS</b></a>&nbsp;·&nbsp;
+  <a href="#orbiters"><b>✦ ORBITERS</b></a>&nbsp;·&nbsp;
+  <a href="#stack"><b>✦ STACK</b></a>&nbsp;·&nbsp;
+  <a href="#uplink"><b>✦ UPLINK</b></a>
 </div>
 
 <a name="featured-mission"></a>

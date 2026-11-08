@@ -1,33 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-label="Constellation map connecting Dhruv Jani's projects by focus area">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="210" viewBox="0 0 1000 210" role="img" aria-label="Seven-star constellation of Dhruv Jani's projects">
   <defs>
     <linearGradient id="space" x1="0" y1="0" x2="1" y2="1">
       <stop stop-color="#050816"/><stop offset="1" stop-color="#17133B"/>
     </linearGradient>
-    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
   <rect x="1" y="1" width="998" height="208" rx="14" fill="url(#space)" stroke="#38BDF8" stroke-opacity=".35"/>
-  <g stroke="#64748B" stroke-opacity=".45" stroke-width="1">
-    <path d="M500 105L190 58M500 105L190 158M500 105L810 58M500 105L810 158M500 105L500 174"/>
+  <g stroke="#64748B" stroke-opacity=".55" stroke-width="1">
+    <path d="M125 132L235 70L380 42L520 82L675 45L825 78L910 140"/>
+    <path d="M235 70L380 168L520 82L675 165L825 78"/>
   </g>
-  <g fill="#E0F2FE"><circle cx="92" cy="30" r="1"/><circle cx="900" cy="30" r="1"/><circle cx="930" cy="178" r=".8"/><circle cx="70" cy="183" r=".8"/></g>
-  <g font-family="Verdana, sans-serif">
-    <text x="500" y="30" text-anchor="middle" font-size="10" font-weight="700" letter-spacing="2" fill="#38BDF8">DHRUV TARA CONSTELLATION</text>
-    <circle cx="500" cy="105" r="25" fill="#FBBF24" fill-opacity=".12"/>
-    <circle cx="500" cy="105" r="8" fill="#FBBF24" filter="url(#glow)"/>
-    <text x="500" y="139" text-anchor="middle" font-size="10" font-weight="700" fill="#FDE68A">NORTH STAR</text>
-    <g text-anchor="middle">
-      <circle cx="190" cy="58" r="6" fill="#38BDF8" filter="url(#glow)"/>
-      <text x="190" y="47" font-size="11" font-weight="700" fill="#F8FAFC">APPLIED AI</text>
-      <text x="190" y="82" font-size="10" fill="#94A3B8">slothd · FinePrint</text>
-      <circle cx="190" cy="158" r="6" fill="#A78BFA" filter="url(#glow)"/>
-      <text x="190" y="147" font-size="11" font-weight="700" fill="#F8FAFC">PROVENANCE</text>
-      <text x="190" y="182" font-size="10" fill="#94A3B8">OriginTrace · GitSéance</text>
-      <circle cx="810" cy="58" r="6" fill="#34D399" filter="url(#glow)"/>
-      <text x="810" y="47" font-size="11" font-weight="700" fill="#F8FAFC">FULL-STACK</text>
-      <text x="810" y="82" font-size="10" fill="#94A3B8">ShelfTalk · EduResolve</text>
-      <circle cx="810" cy="158" r="6" fill="#F472B6" filter="url(#glow)"/>
-      <text x="810" y="147" font-size="11" font-weight="700" fill="#F8FAFC">INTERACTIVE</text>
-      <text x="810" y="182" font-size="10" fill="#94A3B8">the-imitation-game</text>
+  <g fill="#E0F2FE" opacity=".8">
+    <circle cx="70" cy="30" r="1"/><circle cx="150" cy="178" r=".8"/>
+    <circle cx="465" cy="28" r=".8"/><circle cx="940" cy="35" r="1"/>
+    <circle cx="960" cy="178" r=".8"/>
+  </g>
+  <g font-family="Verdana, sans-serif" text-anchor="middle">
+    <text x="500" y="25" font-size="10" font-weight="700" letter-spacing="2" fill="#38BDF8">DHRUV TARA · SEVEN PROJECT STARS</text>
+    <g fill="#FBBF24" filter="url(#glow)">
+      <circle cx="125" cy="132" r="6"/><circle cx="235" cy="70" r="6"/>
+      <circle cx="380" cy="42" r="6"/><circle cx="520" cy="82" r="7"/>
+      <circle cx="675" cy="45" r="6"/><circle cx="825" cy="78" r="6"/>
+      <circle cx="910" cy="140" r="6"/>
+    </g>
+    <g fill="#FFFFFF">
+      <circle cx="125" cy="132" r="2"/><circle cx="235" cy="70" r="2"/>
+      <circle cx="380" cy="42" r="2"/><circle cx="520" cy="82" r="2.5"/>
+      <circle cx="675" cy="45" r="2"/><circle cx="825" cy="78" r="2"/>
+      <circle cx="910" cy="140" r="2"/>
+    </g>
+    <g font-size="10" font-weight="700" fill="#FDE68A">
+      <text x="125" y="153">slothd</text><text x="235" y="91">ShelfTalk</text>
+      <text x="380" y="63">FinePrint</text><text x="520" y="105">GitSéance</text>
+      <text x="675" y="66">OriginTrace</text><text x="825" y="99">EduResolve</text>
+      <text x="910" y="161">imitation game</text>
+    </g>
+    <g font-size="8" fill="#94A3B8">
+      <text x="125" y="166">local AI</text><text x="235" y="104">social reading</text>
+      <text x="380" y="76">contracts</text><text x="520" y="118">code archaeology</text>
+      <text x="675" y="79">provenance</text><text x="825" y="112">campus workflow</text>
+      <text x="910" y="174">interactive fiction</text>
     </g>
   </g>
 </svg>
