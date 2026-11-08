@@ -1,30 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="135" viewBox="0 0 400 135" fill="none">
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="400" height="135" viewBox="0 0 400 135" fill="none">
   <defs>
     <linearGradient id="bg_slothd" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#080E2C" />
-      <stop offset="100%" stop-color="#030616" />
+      <stop offset="0%" stop-color="#050816" />
+      <stop offset="100%" stop-color="#02030B" />
     </linearGradient>
     <linearGradient id="border_slothd" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.7" />
-      <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.3" />
-      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.2" />
+      <stop offset="0%" stop-color="#FBBF24" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#FBBF24" stop-opacity="0.2" />
     </linearGradient>
   </defs>
-
+  <!-- data-cosmic-stars -->
+  <g opacity="0.85" fill="#E0F2FE">
+    <circle cx="34" cy="18" r="1"/><circle cx="74" cy="112" r="0.8"/><circle cx="126" cy="48" r="0.7"/>
+    <circle cx="278" cy="22" r="0.8"/><circle cx="334" cy="76" r="1"/><circle cx="366" cy="112" r="0.7"/>
+    <circle cx="226" cy="118" r="0.6"/><circle cx="174" cy="26" r="0.6"/>
+  </g>
+  <g fill="none" stroke="#38BDF8" stroke-opacity="0.2">
+    <ellipse cx="326" cy="30" rx="54" ry="14" transform="rotate(-16 326 30)"/>
+  </g>
   <!-- Background Card with Cosmic Border -->
   <rect x="1" y="1" width="398" height="133" rx="10" fill="url(#bg_slothd)" stroke="url(#border_slothd)" stroke-width="1.5" />
 
   <!-- Repo Icon -->
   <g transform="translate(18, 20)">
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-3H3v1h1V3zm5-1.75A.75.75 0 019.75 2H13.5A1.5 1.5 0 0115 3.5v9A1.5 1.5 0 0113.5 14H2.5A2.5 2.5 0 010 11.5v-9A2.5 2.5 0 012.5 0h1.75a.75.75 0 010 1.5H2.5a1 1 0 00-1 1v9a1 1 0 001 1h11a.5.5 0 00.5-.5v-9a.5.5 0 00-.5-.5H9.75A.75.75 0 019 1.25z" fill="#F59E0B" transform="scale(1.15)" />
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-3H3v1h1V3zm5-1.75A.75.75 0 019.75 2H13.5A1.5 1.5 0 0115 3.5v9A1.5 1.5 0 0113.5 14H2.5A2.5 2.5 0 010 11.5v-9A2.5 2.5 0 012.5 0h1.75a.75.75 0 010 1.5H2.5a1 1 0 00-1 1v9a1 1 0 001 1h11a.5.5 0 00.5-.5v-9a.5.5 0 00-.5-.5H9.75A.75.75 0 019 1.25z" fill="#FBBF24" transform="scale(1.15)" />
     <!-- Title -->
-    <text x="24" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#FCD34D">slothd</text>
+    <text x="24" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#FDE68A">slothd</text>
   </g>
 
   <!-- Award / Domain Pill -->
   <g transform="translate(165, 16)">
-    <rect width="220" height="20" rx="10" fill="#F59E0B" fill-opacity="0.14" stroke="#F59E0B" stroke-opacity="0.45" stroke-width="1" />
-    <text x="110" y="14" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#FDE68A">🏆 Hacktoberfest Winner ($100)</text>
+    <rect width="220" height="20" rx="10" fill="#FBBF24" fill-opacity="0.14" stroke="#FBBF24" stroke-opacity="0.45" stroke-width="1" />
+    <text x="110" y="14" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10.5" font-weight="600" fill="#FDE68A">Hacktoberfest Winner ($100)</text>
   </g>
 
   <!-- Description -->
@@ -32,7 +40,7 @@
   <text x="18" y="83" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Multimodal vision + structured schema classification.</text>
 
   <!-- Divider Line -->
-  <line x1="18" y1="98" x2="382" y2="98" stroke="#1E293B" stroke-width="1" stroke-opacity="0.6" />
+  <line x1="18" y1="98" x2="382" y2="98" stroke="#172554" stroke-width="1" stroke-opacity="0.6" />
 
   <!-- Footer -->
   <g transform="translate(18, 117)">
@@ -41,7 +49,7 @@
 
     <!-- Star Glow Icon & Uplink Text -->
     <g transform="translate(364, 0)">
-      <text x="0" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#F59E0B">✦ Launch Orbiter →</text>
+      <text x="0" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600" fill="#FBBF24">LAUNCH ORBITER -&gt;</text>
     </g>
   </g>
 </svg>

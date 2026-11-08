@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170" role="img" aria-label="Animated cosmic starfield">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#02030B"/>
+      <stop offset=".58" stop-color="#0B1026"/>
+      <stop offset="1" stop-color="#1E1B4B"/>
+    </linearGradient>
+    <radialGradient id="violetNebula">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity=".5"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="cyanNebula">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="goldNebula">
+      <stop offset="0" stop-color="#FBBF24" stop-opacity=".3"/>
+      <stop offset="1" stop-color="#FBBF24" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect width="1200" height="170" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .twinkle { animation: twinkle 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+    .drift { animation: drift 22s ease-in-out infinite alternate; }
+    .shooting-star { opacity: 0; animation: shooting-star 9s linear infinite; }
+    @keyframes twinkle { 0%, 100% { opacity: .15; transform: scale(.6); } 50% { opacity: 1; transform: scale(1.25); } }
+    @keyframes drift { from { transform: translateX(-24px); } to { transform: translateX(24px); } }
+    @keyframes shooting-star { 0%, 2% { opacity: 0; transform: translateX(0); } 5% { opacity: 1; } 16%, 100% { opacity: 0; transform: translate(540px, 185px); } }
+  </style>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="170" fill="url(#sky)"/>
+    <g class="drift">
+      <ellipse cx="245" cy="68" rx="340" ry="115" fill="url(#violetNebula)"/>
+      <ellipse cx="875" cy="115" rx="380" ry="110" fill="url(#cyanNebula)"/>
+      <ellipse cx="600" cy="162" rx="280" ry="75" fill="url(#goldNebula)"/>
+    </g>
+    <g fill="#F8FAFC">
+      <circle class="twinkle" cx="70" cy="36" r="1.1"/>
+      <circle class="twinkle" cx="155" cy="118" r=".8" style="animation-delay:-1.2s"/>
+      <circle class="twinkle" cx="238" cy="56" r="1.5" fill="#FDE68A" style="animation-delay:-2.1s"/>
+      <circle class="twinkle" cx="342" cy="103" r=".9" fill="#A5B4FC" style="animation-delay:-.8s"/>
+      <circle class="twinkle" cx="456" cy="28" r="1" fill="#7DD3FC" style="animation-delay:-1.7s"/>
+      <circle class="twinkle" cx="545" cy="112" r="1.5" fill="#F9A8D4" style="animation-delay:-2.7s"/>
+      <circle class="twinkle" cx="665" cy="48" r="1.1" fill="#FDE68A" style="animation-delay:-.4s"/>
+      <circle class="twinkle" cx="756" cy="138" r=".8" fill="#A5B4FC" style="animation-delay:-2.4s"/>
+      <circle class="twinkle" cx="865" cy="68" r="1.5" fill="#7DD3FC" style="animation-delay:-1.5s"/>
+      <circle class="twinkle" cx="966" cy="29" r="1" fill="#F9A8D4" style="animation-delay:-.7s"/>
+      <circle class="twinkle" cx="1060" cy="117" r="1.5" fill="#FDE68A" style="animation-delay:-2s"/>
+      <circle class="twinkle" cx="1150" cy="52" r=".9" fill="#A5B4FC" style="animation-delay:-1s"/>
+    </g>
+    <g class="shooting-star" transform="translate(0 8)">
+      <line x1="-72" y1="0" x2="0" y2="0" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" filter="url(#glow)"/>
+    </g>
+  </g>
+</svg>

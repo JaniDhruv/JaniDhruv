@@ -1,6 +1,14 @@
 <!-- Custom Dhruv Tara Cosmic Banner -->
 <div align="center">
+  <img src="assets/starfield.svg" width="100%" alt="" />
+</div>
+
+<div align="center">
   <img src="assets/dhruv-tara-banner.jpg" width="100%" alt="Dhruv Jani — Dhruv Tara (Pole Star) • Same Star, Higher Orbits" />
+</div>
+
+<div align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" alt="" />
 </div>
 
 <div align="center">
@@ -12,17 +20,17 @@
 
   <br/><br/>
 
-  <!-- Top Badges -->
+  <!-- Mission links -->
   <a href="https://www.linkedin.com/in/dhruv-jani-dj29/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0B1026?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://dev.to/dj29" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-15.8k_Stargazers-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to Followers" />
+    <img src="https://img.shields.io/badge/DEV.to-15.8k_Stargazers-0B1026?style=for-the-badge&logo=devdotto&logoColor=FBBF24" alt="DEV.to Followers" />
   </a>
   &nbsp;
   <a href="mailto:dhruvdjani29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say_Hi-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Say_Hi-0B1026?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email" />
   </a>
   &nbsp;
   <img src="https://komarev.com/ghpvc/?username=JaniDhruv&label=Cosmic%20Visitors&color=f59e0b&style=for-the-badge" alt="Profile views" />
@@ -37,6 +45,10 @@
 >  
 > 🌟 **"Same star, higher orbits."**
 
+<div align="center">
+  <sub>✦ MISSION CONTROL ONLINE · DEEP-SPACE ENGINEERING · LOCAL-FIRST SYSTEMS ✦</sub>
+</div>
+
 ```yaml
 identity: Dhruv Jani (ध्रुव / The Pole Star)
 status: Final-Year B.Tech CE @ DDU → Incoming Trainee Engineer @ Simform 🚀
@@ -49,21 +61,29 @@ writing: dev.to/dj29 (Top Author: #rails, #ruby, #discuss)
 ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python, Socket.io, Gemini/Gemma, Local-First AI]
 ```
 
+<div align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" alt="" />
+</div>
+
 ---
 
-### 🏆 High-Orbit Milestones & Accolades
+### 🏆 High-Orbit Milestones · Signal Strength
 
 | 🌟 Orbit | Celestial Achievement / Description | 🗓️ Solar Year |
 | :---: | :--- | :---: |
 | 🥇 **Hackathon Winner** | [**Best Use of GitHub Copilot ($100 Prize)**](https://dev.to/dj29/i-built-slothd-a-local-first-offline-capable-ai-daemon-that-patiently-organizes-your-messy-53e7) — Hacktoberfest 2026 *(slothd)* | Fall 2026 |
-| 🥇 **Global Finalist** | [**Top 10 of 500+ Finalist**](https://github.com/JaniDhruv/ShelfTalk) — GitHub Copilot Finish-Up-A-Thon *(ShelfTalk)* | Fall 2026 |
+| 🥇 **Global Challenge Winner** | [**1 of 10 Global Challenge Winners — $300 Prize**](https://dev.to/devteam/congrats-to-the-github-finish-up-a-thon-challenge-winners-1k0h) — GitHub Copilot Finish-Up-A-Thon *(ShelfTalk)* | Fall 2026 |
 | 🌍 **Open Source** | [**10 Merged PRs in forem/forem**](https://github.com/forem/forem/pulls?q=is%3Apr+author%3AJaniDhruv+is%3Amerged) — 4x & 8x DEV Contributor Club *(Platform Core)* | 2026 |
 | ✍️ **Community Authority** | [**DEV Trusted Member**](https://dev.to/dj29) — 15,800+ Stargazers • 36,600+ Reads across 30+ deep-dive articles | 2026 |
 | 🎤 **Community Leadership** | **Official Meetup Host** — Hacktoberfest 2026 Meetup @ DDU Nadiad | Fall 2026 |
 
+<div align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" alt="" />
+</div>
+
 ---
 
-### ✍️ Stargazers & Community Impact ([@dj29](https://dev.to/dj29))
+### ✍️ Stargazers & Community Impact · Incoming Signals ([@dj29](https://dev.to/dj29))
 
 <div align="center">
 
@@ -81,7 +101,7 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
   </a>
   &nbsp;
   <a href="https://github.com/forem/forem/pulls?q=is%3Apr+author%3AJaniDhruv+is%3Amerged" target="_blank">
-    <img src="https://img.shields.io/badge/Forem_Core-10_Merged_PRs-2ea44f?style=for-the-badge&logo=git&logoColor=white" alt="10 Merged PRs" />
+    <img src="https://img.shields.io/badge/Forem_Core-10_Merged_PRs-0B1026?style=for-the-badge&logo=git&logoColor=34D399" alt="10 Merged PRs" />
   </a>
   &nbsp;
   <a href="https://dev.to/dj29" target="_blank">
@@ -104,9 +124,13 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 > • Granted platform moderation privileges to evaluate technical accuracy, rank post quality via algorithmic weighting, and triage spam across a global developer ecosystem.  
 > • Actively rate content experience levels and enforce Code of Conduct integrity to maintain high-signal engineering feeds for over 4 million developers.
 
+<div align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" alt="" />
+</div>
+
 ---
 
-### 🏅 Hall of Trophies: Official DEV Constellation
+### 🏅 Hall of Trophies · Official DEV Constellation
 
 <div align="center">
 
@@ -126,7 +150,7 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
       </a>
       <br/>
       <b>Finish-Up-A-Thon</b><br/>
-      <sub>🏆 Challenge Winner • Top 10 of 500+ ($300 Prize)</sub>
+      <sub>🏆 1 of 10 Global Challenge Winners • $300 Prize</sub>
     </td>
     <td align="center" width="20%" valign="top">
       <a href="https://dev.to/dj29" target="_blank">
@@ -199,9 +223,13 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 
 </div>
 
+<div align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" alt="" />
+</div>
+
 ---
 
-### 📝 Dispatches from Orbit: Latest dev.to Articles
+### 📝 Dispatches from Orbit · Latest Signals
 
 <table width="100%">
   <tr>
@@ -263,9 +291,13 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 
 </details>
 
+<div align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" alt="" />
+</div>
+
 ---
 
-### 🛠️ The Technical Stargate
+### 🛠️ The Technical Stargate · Propulsion Systems
 
 <div align="center">
 
@@ -310,9 +342,13 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 
 </div>
 
+<div align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" alt="" />
+</div>
+
 ---
 
-### 🚀 Deployed Orbiters & Deep-Space Systems
+### 🚀 Deployed Orbiters · Deep-Space Systems
 
 <div align="center">
 <table>
@@ -350,9 +386,13 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 
 </details>
 
+<div align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" alt="" />
+</div>
+
 ---
 
-### 📊 Orbital Telemetry & Constellation Stats
+### 📊 Orbital Telemetry · Constellation Stats
 
 <div align="center">
 
@@ -365,27 +405,31 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 
 </div>
 
+<div align="center">
+  <img src="assets/cosmic-divider.svg" width="100%" alt="" />
+</div>
+
 ---
 
-### 🤝 Establish Uplink
+### 🤝 Establish Uplink · Open Channel
 
 Open to discussing full-stack engineering, local-first AI, hackathons, open source, or opportunities.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhruv-jani-dj29/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0B1026?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://dev.to/dj29" target="_blank">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV.to" />
+    <img src="https://img.shields.io/badge/DEV.to-0B1026?style=for-the-badge&logo=devdotto&logoColor=FBBF24" alt="DEV.to" />
   </a>
   &nbsp;
   <a href="mailto:dhruvdjani29@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Open_Channel-0B1026?style=for-the-badge&logo=gmail&logoColor=F472B6" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/JaniDhruv">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0B1026?style=for-the-badge&logo=github&logoColor=E2E8F0" alt="GitHub" />
   </a>
 </p>
 
