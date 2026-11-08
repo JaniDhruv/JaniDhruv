@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200" fill="none">
+  <defs>
+    <linearGradient id="stats_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080E2C" />
+      <stop offset="100%" stop-color="#030616" />
+    </linearGradient>
+    <linearGradient id="stats_border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="398" height="198" rx="10" fill="url(#stats_bg)" stroke="url(#stats_border)" stroke-width="1.5" />
+
+  <!-- Header -->
+  <g transform="translate(20, 28)">
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FCD34D">⚡ Dhruv Jani's Orbital Telemetry</text>
+  </g>
+
+  <!-- Stats Grid -->
+  <g transform="translate(24, 60)">
+    <!-- Total PRs -->
+    <g transform="translate(0, 0)">
+      <circle cx="6" cy="-4" r="3" fill="#F59E0B" />
+      <text x="18" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#CBD5E1">Merged PRs in Core (Forem):</text>
+      <text x="350" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" fill="#FCD34D">10 Merged</text>
+    </g>
+
+    <!-- Hackathon Wins -->
+    <g transform="translate(0, 28)">
+      <circle cx="6" cy="-4" r="3" fill="#F59E0B" />
+      <text x="18" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#CBD5E1">Global Hackathon Accolades:</text>
+      <text x="350" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" fill="#FCD34D">2x Winner</text>
+    </g>
+
+    <!-- Community Readers -->
+    <g transform="translate(0, 56)">
+      <circle cx="6" cy="-4" r="3" fill="#F59E0B" />
+      <text x="18" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#CBD5E1">Engineering Followers (DEV):</text>
+      <text x="350" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" fill="#FCD34D">15,800+</text>
+    </g>
+
+    <!-- Total Public Repos -->
+    <g transform="translate(0, 84)">
+      <circle cx="6" cy="-4" r="3" fill="#F59E0B" />
+      <text x="18" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#CBD5E1">Total Public Repositories:</text>
+      <text x="350" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13.5" font-weight="700" fill="#FCD34D">17 Repos</text>
+    </g>
+
+    <!-- Operational Status -->
+    <g transform="translate(0, 112)">
+      <circle cx="6" cy="-4" r="3" fill="#10B981" />
+      <text x="18" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#CBD5E1">Orbital Constellation Status:</text>
+      <text x="350" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="700" fill="#10B981">● 100% Online</text>
+    </g>
+  </g>
+</svg>

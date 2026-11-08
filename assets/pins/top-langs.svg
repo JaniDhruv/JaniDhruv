@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200" viewBox="0 0 400 200" fill="none">
+  <defs>
+    <linearGradient id="langs_bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080E2C" />
+      <stop offset="100%" stop-color="#030616" />
+    </linearGradient>
+    <linearGradient id="langs_border" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.7" />
+      <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <!-- Card Background -->
+  <rect x="1" y="1" width="398" height="198" rx="10" fill="url(#langs_bg)" stroke="url(#langs_border)" stroke-width="1.5" />
+
+  <!-- Header -->
+  <g transform="translate(20, 28)">
+    <text x="0" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#FCD34D">🌌 Propulsion & Core Languages</text>
+  </g>
+
+  <!-- Progress Bar Container -->
+  <g transform="translate(20, 48)">
+    <rect width="360" height="9" rx="4.5" fill="#1E293B" />
+    <rect x="0" width="130" height="9" rx="4.5" fill="#3178C6" />
+    <rect x="132" width="85" height="9" rx="0" fill="#F1E05A" />
+    <rect x="219" width="65" height="9" rx="0" fill="#3572A5" />
+    <rect x="286" width="45" height="9" rx="0" fill="#178600" />
+    <rect x="333" width="27" height="9" rx="4.5" fill="#701516" />
+  </g>
+
+  <!-- Language List -->
+  <g transform="translate(24, 82)">
+    <!-- Column 1 -->
+    <g transform="translate(0, 0)">
+      <circle cx="5" cy="-4" r="4.5" fill="#3178C6" />
+      <text x="16" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#E2E8F0">TypeScript</text>
+      <text x="135" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#94A3B8">36.1%</text>
+    </g>
+
+    <g transform="translate(0, 28)">
+      <circle cx="5" cy="-4" r="4.5" fill="#F1E05A" />
+      <text x="16" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#E2E8F0">JavaScript</text>
+      <text x="135" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#94A3B8">23.6%</text>
+    </g>
+
+    <g transform="translate(0, 56)">
+      <circle cx="5" cy="-4" r="4.5" fill="#3572A5" />
+      <text x="16" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#E2E8F0">Python</text>
+      <text x="135" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#94A3B8">18.1%</text>
+    </g>
+
+    <!-- Column 2 -->
+    <g transform="translate(190, 0)">
+      <circle cx="5" cy="-4" r="4.5" fill="#178600" />
+      <text x="16" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#E2E8F0">C# / .NET</text>
+      <text x="150" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#94A3B8">12.5%</text>
+    </g>
+
+    <g transform="translate(190, 28)">
+      <circle cx="5" cy="-4" r="4.5" fill="#701516" />
+      <text x="16" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#E2E8F0">Ruby / Rails</text>
+      <text x="150" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#94A3B8">7.5%</text>
+    </g>
+
+    <g transform="translate(190, 56)">
+      <circle cx="5" cy="-4" r="4.5" fill="#F59E0B" />
+      <text x="16" y="0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12.5" font-weight="600" fill="#E2E8F0">C++ / Other</text>
+      <text x="150" y="0" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" fill="#94A3B8">2.2%</text>
+    </g>
+  </g>
+</svg>

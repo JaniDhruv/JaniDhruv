@@ -317,19 +317,19 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 <div align="center">
 <table>
   <tr>
-    <td><a href="https://github.com/JaniDhruv/slothd"><img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=JaniDhruv&repo=slothd&theme=tokyonight&hide_border=true" alt="slothd" /></a></td>
-    <td><a href="https://github.com/JaniDhruv/ShelfTalk"><img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=JaniDhruv&repo=ShelfTalk&theme=tokyonight&hide_border=true" alt="ShelfTalk" /></a></td>
+    <td><a href="https://github.com/JaniDhruv/slothd"><img src="assets/pins/slothd.svg" alt="slothd" /></a></td>
+    <td><a href="https://github.com/JaniDhruv/ShelfTalk"><img src="assets/pins/ShelfTalk.svg" alt="ShelfTalk" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Tarkash-Labs/FinePrint"><img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Tarkash-Labs&repo=FinePrint&theme=tokyonight&hide_border=true" alt="FinePrint" /></a></td>
-    <td><a href="https://github.com/JaniDhruv/GitSeance"><img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=JaniDhruv&repo=GitSeance&theme=tokyonight&hide_border=true" alt="GitSeance" /></a></td>
+    <td><a href="https://github.com/Tarkash-Labs/FinePrint"><img src="assets/pins/FinePrint.svg" alt="FinePrint" /></a></td>
+    <td><a href="https://github.com/JaniDhruv/GitSeance"><img src="assets/pins/GitSeance.svg" alt="GitSéance" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/JaniDhruv/OriginTrace"><img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=JaniDhruv&repo=OriginTrace&theme=tokyonight&hide_border=true" alt="OriginTrace" /></a></td>
-    <td><a href="https://github.com/Edu-Trinity/EduResolve"><img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=Edu-Trinity&repo=EduResolve&theme=tokyonight&hide_border=true" alt="EduResolve" /></a></td>
+    <td><a href="https://github.com/JaniDhruv/OriginTrace"><img src="assets/pins/OriginTrace.svg" alt="OriginTrace" /></a></td>
+    <td><a href="https://github.com/Edu-Trinity/EduResolve"><img src="assets/pins/EduResolve.svg" alt="EduResolve" /></a></td>
   </tr>
   <tr>
-    <td colspan="2" align="center"><a href="https://github.com/JaniDhruv/the-imitation-game"><img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin/?username=JaniDhruv&repo=the-imitation-game&theme=tokyonight&hide_border=true" alt="the-imitation-game" /></a></td>
+    <td colspan="2" align="center"><a href="https://github.com/JaniDhruv/the-imitation-game"><img src="assets/pins/the-imitation-game.svg" alt="the-imitation-game" /></a></td>
   </tr>
 </table>
 </div>
@@ -356,8 +356,8 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 
 <div align="center">
 
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=JaniDhruv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=JaniDhruv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top Languages" />
+  <img src="assets/pins/github-stats.svg" width="49%" alt="GitHub Orbital Telemetry" />
+  <img src="assets/pins/top-langs.svg" width="49%" alt="Top Propulsion Languages" />
 
   <br/>
 
