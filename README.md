@@ -45,50 +45,16 @@ ask_me_about: [React, Next.js, Node/Express, Python, Socket.io, Gemini/Gemma, Lo
 
 ---
 
-### 🏆 Highlights
+### 🏆 Achievements
 
-<div align="center">
-<table>
-  <tr>
-    <th width="33%" align="center">🥇 <b>Hackathons</b></th>
-    <th width="33%" align="center">🌍 <b>Open Source & Orgs</b></th>
-    <th width="33%" align="center">✍️ <b>Community & Reach</b></th>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Top 10 of 500+</b><br/>
-      GitHub Copilot Finish-Up-A-Thon<br/>
-      <sub>with <a href="https://github.com/JaniDhruv/ShelfTalk"><b>ShelfTalk</b></a></sub>
-    </td>
-    <td align="center">
-      <b>8+ merged PRs</b> in <a href="https://github.com/forem/forem/pulls?q=is%3Apr+author%3AJaniDhruv+is%3Amerged"><b>forem/forem</b></a><br/>
-      <sub>Member: <b>The DEVengers</b> & <b>Necoz</b></sub>
-    </td>
-    <td align="center">
-      <b>DEV Trusted Member</b><br/>
-      Writing as <a href="https://dev.to/dj29"><b>@dj29</b></a><br/>
-      <sub><b>15.8k+</b> Followers • <b>36.6k+</b> Views</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>Top 50 of 8,666 teams</b><br/>
-      InnovaHack Chapter-1<br/>
-      <sub>with <b>Waypoint</b></sub>
-    </td>
-    <td align="center">
-      <b>Gemma 4 Dev Challenge</b><br/>
-      built <a href="https://github.com/Tarkash-Labs/FinePrint"><b>FinePrint</b></a> with Yug<br/>
-      <sub>my first DEV challenge entry</sub>
-    </td>
-    <td align="center">
-      <b>Multi-challenge builder</b><br/>
-      Gemma · Sanity · Hacktoberfest · Kaggle<br/>
-      <sub>ship, then write about it</sub>
-    </td>
-  </tr>
-</table>
-</div>
+| Category | Title / Description | 🗓️ Year |
+| :---: | :--- | :---: |
+| 🥇 **Award** | [**Top 10 of 500+ Finalist**](https://github.com/JaniDhruv/ShelfTalk) — GitHub Copilot Finish-Up-A-Thon *(ShelfTalk)* | Fall 2026 |
+| 🥇 **Award** | **Top 50 of 8,666 teams** — InnovaHack Chapter-1 *(Waypoint)* | Fall 2026 |
+| 🤖 **Challenge** | [**Google Gemma 4 Dev Challenge**](https://github.com/Tarkash-Labs/FinePrint) — Built FinePrint *(Multimodal Risk Engine)* | Spring 2026 |
+| 🎃 **Challenge** | [**Hacktoberfest AI Challenge**](https://dev.to/dj29) — Built GitSéance *(AI Codebase Necromancer)* | Fall 2026 |
+| 🌍 **Open Source** | [**8+ Merged PRs in forem/forem**](https://github.com/forem/forem/pulls?q=is%3Apr+author%3AJaniDhruv+is%3Amerged) — 4x & 8x DEV Contributor Club | 2026 |
+| ✍️ **Community** | [**DEV Trusted Member**](https://dev.to/dj29) — 15,890+ Followers • 36,600+ Reads across 30+ posts | 2026 |
 
 ---
 
@@ -141,14 +107,52 @@ ask_me_about: [React, Next.js, Node/Express, Python, Socket.io, Gemini/Gemma, Lo
 
 </div>
 
-📌 **Featured Pinned Article:**  
-> [**Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI to Haunt It.**](https://dev.to/dj29)  
-> *A deep dive into GitSeance, AST parsers, and code auditing agents for the Hacktoberfest Open-Source AI Challenge.*
+### 📝 Latest dev.to Articles
 
-<br/>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://dev.to/dj29" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1,2,8&height=180&text=GitS%C3%A9ance%20%F0%9F%91%BB&fontSize=28&fontColor=ffffff&desc=Hacktoberfest%20AI%20Challenge&descSize=15&descAlignY=65" width="100%" alt="GitSeance article" />
+      </a>
+      <br/><br/>
+      <a href="https://dev.to/dj29" target="_blank"><b>Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer...</b></a>
+      <br/><br/>
+      <sub>🗓️ Oct 31 • ⏱️ 6 min read</sub>
+      <br/>
+      <sub>💖 160+ • 💬 85+</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://dev.to/dj29" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=180&text=DEV%20Ecosystem%20%F0%9F%93%8A&fontSize=28&fontColor=ffffff&desc=How%20700%20RSS%20Bot%20Posts%20Took%20Over&descSize=14&descAlignY=65" width="100%" alt="RSS bot posts analysis" />
+      </a>
+      <br/><br/>
+      <a href="https://dev.to/dj29" target="_blank"><b>Popularity Depends on How You Define It: How 700 RSS Bot Posts Took Over...</b></a>
+      <br/><br/>
+      <sub>🗓️ Sep 15 • ⏱️ 7 min read</sub>
+      <br/>
+      <sub>💖 120+ • 💬 45+</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://dev.to/dj29" target="_blank">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22,23,24&height=180&text=First%20Article%3F%20%E2%9C%A8&fontSize=28&fontColor=ffffff&desc=Don't%20Be%20Scared%2C%20I'll%20Read%20It&descSize=14&descAlignY=65" width="100%" alt="Scared to publish" />
+      </a>
+      <br/><br/>
+      <a href="https://dev.to/dj29" target="_blank"><b>Scared to Publish Your First Technical Article? Don’t Be. I’ll Be There to Read It.</b></a>
+      <br/><br/>
+      <sub>🗓️ Aug 20 • ⏱️ 4 min read</sub>
+      <br/>
+      <sub>💖 210+ • 💬 90+</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="right">
+  <a href="https://dev.to/dj29" target="_blank"><b>View all 30+ articles on dev.to →</b></a>
+</p>
 
 <details>
-<summary><b>📰 Latest DEV.to Articles (Auto-Updated via GitHub Actions)</b></summary>
+<summary><b>🔄 Auto-Updating Stream (Powered by GitHub Actions)</b></summary>
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
