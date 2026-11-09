@@ -268,6 +268,20 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 <table width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
+      <a href="https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp" target="_blank">
+        <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5sp7n70ln7bl85pk79qn.jpg" width="100%" alt="The C Trilogy article cover" />
+      </a>
+      <br/><br/>
+      <a href="https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp" target="_blank"><b>The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World...</b></a>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Nov_9-0A0A0A?style=flat-square" alt="Date" />
+      <img src="https://img.shields.io/badge/7_min_read-181717?style=flat-square" alt="Read time" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Reactions-New-ea4aaa?style=flat-square" alt="Reactions pending" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/Comments-New-6366f1?style=flat-square" alt="Comments pending" />
+    </td>
+    <td width="33%" align="center" valign="top">
       <a href="https://dev.to/dj29/popularity-depends-on-how-you-define-it-how-700-rss-bot-posts-took-over-devs-community-hub-414p" target="_blank">
         <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnixds1pgz41lb4ux5y8p.png" width="100%" alt="RSS bot posts cover" />
       </a>
@@ -292,20 +306,6 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
       <img src="https://img.shields.io/badge/12_min_read-181717?style=flat-square" alt="Read time" />
       <br/><br/>
       <img src="https://img.shields.io/badge/Reactions-125-ea4aaa?style=flat-square" alt="Reactions" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Comments-65-6366f1?style=flat-square" alt="Comments" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo" target="_blank">
-        <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fu93kz0lmzx5azbphc6x9.png" width="100%" alt="Debugging missing badges cover" />
-      </a>
-      <br/><br/>
-      <a href="https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo" target="_blank"><b>I'm Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code.</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Oct_24-0A0A0A?style=flat-square" alt="Date" />
-      <img src="https://img.shields.io/badge/6_min_read-181717?style=flat-square" alt="Read time" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Reactions-146-ea4aaa?style=flat-square" alt="Reactions" />
       &nbsp;
       <img src="https://img.shields.io/badge/Comments-65-6366f1?style=flat-square" alt="Comments" />
     </td>
