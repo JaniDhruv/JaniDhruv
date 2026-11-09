@@ -317,11 +317,11 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- ✦ [The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World 🏛️](https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp) — *Mon Nov 09 2026 3:30 PM*
 - ✦ [Popularity Depends on How You Define It: How 700 RSS Bot Posts Took Over DEV&#39;s Community Hub 🤖💥](https://dev.to/dj29/popularity-depends-on-how-you-define-it-how-700-rss-bot-posts-took-over-devs-community-hub-414p) — *Thu Nov 05 2026 12:55 PM*
 - ✦ [Every Codebase Has a &#39;// DO NOT TOUCH&#39; File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It 💀🔮](https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5) — *Sat Oct 31 2026 5:57 PM*
 - ✦ [We Need to Talk About How Gross Modern Web Design Has Become &lpar;And How We Built an AI to Catch It&rpar;](https://dev.to/dj29/we-need-to-talk-about-how-gross-modern-web-design-has-become-and-how-we-built-an-ai-to-catch-it-5gin) — *Fri Oct 30 2026 11:35 AM*
-- ✦ [I&#39;m Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code. &lpar;And My First Test Was Wrong.&rpar;](https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo) — *Sat Oct 24 2026 6:12 PM*
-- ✦ [Buried Reads #1: Five Good Posts That Deserve More Attention](https://dev.to/dj29/buried-reads-1-five-good-posts-that-deserve-more-attention-40ib) — *Thu Oct 22 2026 12:41 PM*<!-- BLOG-POST-LIST:END -->
+- ✦ [I&#39;m Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code. &lpar;And My First Test Was Wrong.&rpar;](https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo) — *Sat Oct 24 2026 6:12 PM*<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
   <img src="assets/cosmic-divider.svg" width="100%" alt="" />
