@@ -265,63 +265,33 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 
 ### 📝 Dispatches from Orbit · Latest Signals
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <a href="https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp" target="_blank">
-        <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F5sp7n70ln7bl85pk79qn.jpg" width="100%" alt="The C Trilogy article cover" />
-      </a>
-      <br/><br/>
-      <a href="https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp" target="_blank"><b>The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World...</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Nov_9-0A0A0A?style=flat-square" alt="Date" />
-      <img src="https://img.shields.io/badge/7_min_read-181717?style=flat-square" alt="Read time" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Reactions-New-ea4aaa?style=flat-square" alt="Reactions pending" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Comments-New-6366f1?style=flat-square" alt="Comments pending" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://dev.to/dj29/popularity-depends-on-how-you-define-it-how-700-rss-bot-posts-took-over-devs-community-hub-414p" target="_blank">
-        <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnixds1pgz41lb4ux5y8p.png" width="100%" alt="RSS bot posts cover" />
-      </a>
-      <br/><br/>
-      <a href="https://dev.to/dj29/popularity-depends-on-how-you-define-it-how-700-rss-bot-posts-took-over-devs-community-hub-414p" target="_blank"><b>Popularity Depends on How You Define It: How 700 RSS Bot Posts Took Over DEV...</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Nov_5-0A0A0A?style=flat-square" alt="Date" />
-      <img src="https://img.shields.io/badge/5_min_read-181717?style=flat-square" alt="Read time" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Reactions-56-ea4aaa?style=flat-square" alt="Reactions" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Comments-32-6366f1?style=flat-square" alt="Comments" />
-    </td>
-    <td width="33%" align="center" valign="top">
-      <a href="https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5" target="_blank">
-        <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fezbb0xf5v8087ny2qes2.jpg" width="100%" alt="GitSeance article cover" />
-      </a>
-      <br/><br/>
-      <a href="https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5" target="_blank"><b>Every Codebase Has a '// DO NOT TOUCH' File. I Built an AI Necromancer...</b></a>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Oct_31-0A0A0A?style=flat-square" alt="Date" />
-      <img src="https://img.shields.io/badge/12_min_read-181717?style=flat-square" alt="Read time" />
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Reactions-125-ea4aaa?style=flat-square" alt="Reactions" />
-      &nbsp;
-      <img src="https://img.shields.io/badge/Comments-65-6366f1?style=flat-square" alt="Comments" />
-    </td>
-  </tr>
+<!-- ARTICLES:START -->
+
+<table width="100%" cellpadding="10" cellspacing="0">
+<tr>
+<td align="center" valign="middle" width="33%"><a href="https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7pm0ebl6iiy3scfns030.png" alt="The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World 🏛️" width="300" height="150"></a></td>
+<td align="center" valign="middle" width="33%"><a href="https://dev.to/dj29/popularity-depends-on-how-you-define-it-how-700-rss-bot-posts-took-over-devs-community-hub-414p"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnixds1pgz41lb4ux5y8p.png" alt="Popularity Depends on How You Define It: How 700 RSS Bot Posts Took Over DEV&#039;s Community Hub 🤖💥" width="300" height="150"></a></td>
+<td align="center" valign="middle" width="33%"><a href="https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fezbb0xf5v8087ny2qes2.jpg" alt="Every Codebase Has a &#039;// DO NOT TOUCH&#039; File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It 💀🔮" width="300" height="150"></a></td>
+</tr>
+<tr>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp" title="The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World 🏛️">The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and…</a></strong></td>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/dj29/popularity-depends-on-how-you-define-it-how-700-rss-bot-posts-took-over-devs-community-hub-414p" title="Popularity Depends on How You Define It: How 700 RSS Bot Posts Took Over DEV&#039;s Community Hub 🤖💥">Popularity Depends on How You Define It: How 700 RSS Bot…</a></strong></td>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5" title="Every Codebase Has a &#039;// DO NOT TOUCH&#039; File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It 💀🔮">Every Codebase Has a &#039;// DO NOT TOUCH&#039; File. I Built an AI…</a></strong></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 9 &nbsp;&bull;&nbsp; ⏱️ 6 min read</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 5 &nbsp;&bull;&nbsp; ⏱️ 5 min read</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>📅 Oct 31 &nbsp;&bull;&nbsp; ⏱️ 12 min read</sub></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 42 &nbsp;&bull;&nbsp; 💬 9</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 56 &nbsp;&bull;&nbsp; 💬 34</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 124 &nbsp;&bull;&nbsp; 💬 64</sub></td>
+</tr>
 </table>
 
-<p align="right">
-  <a href="https://dev.to/dj29" target="_blank"><b>View all 30+ articles on dev.to →</b></a>
-</p>
-
-<!-- BLOG-POST-LIST:START -->
-- ✦ [The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World 🏛️](https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp) — *Mon Nov 09 2026 3:30 PM*
-- ✦ [Popularity Depends on How You Define It: How 700 RSS Bot Posts Took Over DEV&#39;s Community Hub 🤖💥](https://dev.to/dj29/popularity-depends-on-how-you-define-it-how-700-rss-bot-posts-took-over-devs-community-hub-414p) — *Thu Nov 05 2026 12:55 PM*
-- ✦ [Every Codebase Has a &#39;// DO NOT TOUCH&#39; File. I Built an AI Necromancer to Summon the Ghost of the Developer Who Wrote It 💀🔮](https://dev.to/dj29/every-codebase-has-a-do-not-touch-file-i-built-an-ai-necromancer-to-summon-the-ghost-of-the-2no5) — *Sat Oct 31 2026 5:57 PM*
-- ✦ [We Need to Talk About How Gross Modern Web Design Has Become &lpar;And How We Built an AI to Catch It&rpar;](https://dev.to/dj29/we-need-to-talk-about-how-gross-modern-web-design-has-become-and-how-we-built-an-ai-to-catch-it-5gin) — *Fri Oct 30 2026 11:35 AM*
-- ✦ [I&#39;m Not on the DEV Team. I Still Debugged Their Missing Badges From Public Code. &lpar;And My First Test Was Wrong.&rpar;](https://dev.to/dj29/im-not-on-the-dev-team-i-still-debugged-their-missing-badges-from-public-code-and-my-first-test-18oo) — *Sat Oct 24 2026 6:12 PM*<!-- BLOG-POST-LIST:END -->
+<p align="right"><a href="https://dev.to/dj29"><strong>View all 30+ articles on dev.to →</strong></a></p>
+<!-- ARTICLES:END -->
 
 <div align="center">
   <img src="assets/cosmic-divider.svg" width="100%" alt="" />
