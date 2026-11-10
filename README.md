@@ -284,9 +284,9 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 <td align="center" valign="middle" width="33%" height="32"><sub>📅 Oct 31 &nbsp;&bull;&nbsp; ⏱️ 12 min read</sub></td>
 </tr>
 <tr>
-<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 61 &nbsp;&bull;&nbsp; 💬 19</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 67 &nbsp;&bull;&nbsp; 💬 22</sub></td>
 <td align="center" valign="middle" width="33%" height="32"><sub>❤️ 56 &nbsp;&bull;&nbsp; 💬 34</sub></td>
-<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 124 &nbsp;&bull;&nbsp; 💬 64</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 124 &nbsp;&bull;&nbsp; 💬 66</sub></td>
 </tr>
 </table>
 
