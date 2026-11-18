@@ -269,24 +269,24 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 
 <table width="100%" cellpadding="10" cellspacing="0">
 <tr>
+<td align="center" valign="middle" width="33%"><a href="https://dev.to/devengers/devengers-weekly-1-the-mcp-reality-check-career-moats-and-25-weeks-on-the-radar-23ec"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F1hfp6oxm2afnbjw9zfke.png" alt="DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar 🚀" width="300" height="150"></a></td>
 <td align="center" valign="middle" width="33%"><a href="https://dev.to/dj29/pitchpulse-rehearsing-recovery-for-high-pressure-speaking-powered-by-presage-smartspectra-3387"><img src="https://raw.githubusercontent.com/github/explore/main/topics/devto/devto.png" alt="PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)" width="300" height="150"></a></td>
 <td align="center" valign="middle" width="33%"><a href="https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7pm0ebl6iiy3scfns030.png" alt="The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World 🏛️" width="300" height="150"></a></td>
-<td align="center" valign="middle" width="33%"><a href="https://dev.to/dj29/popularity-depends-on-how-you-define-it-how-700-rss-bot-posts-took-over-devs-community-hub-414p"><img src="https://media2.dev.to/dynamic/image/width=600,height=300,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fnixds1pgz41lb4ux5y8p.png" alt="Popularity Depends on How You Define It: How 700 RSS Bot Posts Took Over DEV&#039;s Community Hub 🤖💥" width="300" height="150"></a></td>
 </tr>
 <tr>
+<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/devengers/devengers-weekly-1-the-mcp-reality-check-career-moats-and-25-weeks-on-the-radar-23ec" title="DEVengers Weekly #1: The MCP Reality Check, Career Moats, and 25 Weeks on the Radar 🚀">DEVengers Weekly #1: The MCP Reality Check, Career Moats,…</a></strong></td>
 <td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/dj29/pitchpulse-rehearsing-recovery-for-high-pressure-speaking-powered-by-presage-smartspectra-3387" title="PitchPulse — Rehearsing Recovery for High-Pressure Speaking (Powered by Presage SmartSpectra)">PitchPulse — Rehearsing Recovery for High-Pressure Speaking…</a></strong></td>
 <td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/devengers/the-c-trilogy-how-dennis-ritchie-bjarne-stroustrup-and-anders-hejlsberg-built-the-modern-world-1onp" title="The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and Anders Hejlsberg Built the Modern World 🏛️">The C Trilogy: How Dennis Ritchie, Bjarne Stroustrup, and…</a></strong></td>
-<td align="center" valign="top" width="33%" height="72"><strong><a href="https://dev.to/dj29/popularity-depends-on-how-you-define-it-how-700-rss-bot-posts-took-over-devs-community-hub-414p" title="Popularity Depends on How You Define It: How 700 RSS Bot Posts Took Over DEV&#039;s Community Hub 🤖💥">Popularity Depends on How You Define It: How 700 RSS Bot…</a></strong></td>
 </tr>
 <tr>
+<td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 17 &nbsp;&bull;&nbsp; ⏱️ 6 min read</sub></td>
 <td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 16 &nbsp;&bull;&nbsp; ⏱️ 5 min read</sub></td>
 <td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 9 &nbsp;&bull;&nbsp; ⏱️ 6 min read</sub></td>
-<td align="center" valign="middle" width="33%" height="32"><sub>📅 Nov 5 &nbsp;&bull;&nbsp; ⏱️ 5 min read</sub></td>
 </tr>
 <tr>
-<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 47 &nbsp;&bull;&nbsp; 💬 9</sub></td>
-<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 154 &nbsp;&bull;&nbsp; 💬 47</sub></td>
-<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 56 &nbsp;&bull;&nbsp; 💬 34</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 57 &nbsp;&bull;&nbsp; 💬 23</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 49 &nbsp;&bull;&nbsp; 💬 11</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 156 &nbsp;&bull;&nbsp; 💬 47</sub></td>
 </tr>
 </table>
 
