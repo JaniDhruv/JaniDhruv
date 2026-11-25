@@ -286,7 +286,7 @@ ask_me_about: [React, Next.js, Node/Express, Ruby on Rails, C# / ASP.NET, Python
 <tr>
 <td align="center" valign="middle" width="33%" height="32"><sub>❤️ 99 &nbsp;&bull;&nbsp; 💬 28</sub></td>
 <td align="center" valign="middle" width="33%" height="32"><sub>❤️ 57 &nbsp;&bull;&nbsp; 💬 11</sub></td>
-<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 158 &nbsp;&bull;&nbsp; 💬 47</sub></td>
+<td align="center" valign="middle" width="33%" height="32"><sub>❤️ 159 &nbsp;&bull;&nbsp; 💬 47</sub></td>
 </tr>
 </table>
 
